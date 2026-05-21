@@ -1,7 +1,10 @@
-<?php 
+<?php
+ob_start();
 session_start();
-require('Admin/inc/db_config.php'); 
-require('Admin/inc/essentials.php'); ?>
+
+require('Admin/inc/db_config.php');
+require('Admin/inc/essentials.php');
+?>
 
 
 <!DOCTYPE html>
