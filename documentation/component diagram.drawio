@@ -1,0 +1,133 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
+  <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
+    <mxGraphModel dx="898" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Beib_Prazt3__CU-oj-B-1" value="admin_cred" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="190" y="360" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-8" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-9" value="bookings&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22admin_cred%22%20style%3D%22shape%3Dnote%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BbackgroundOutline%3D1%3BdarkOpacity%3D0.05%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22130%22%20y%3D%22510%22%20width%3D%2270%22%20height%3D%2290%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=31;" vertex="1" parent="1">
+          <mxGeometry x="150" y="470" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-10" value="facilities&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22admin_cred%22%20style%3D%22shape%3Dnote%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BbackgroundOutline%3D1%3BdarkOpacity%3D0.05%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22130%22%20y%3D%22510%22%20width%3D%2270%22%20height%3D%2290%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="295" y="650" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-11" value="rooms" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="195" y="590" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-12" value="room_facilities" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="520" y="660" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-13" value="room_images" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="410" y="660" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-14" value="settings" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="720" y="370" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-15" value="testimonials" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="730" y="480" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-16" value="users" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="640" y="650" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-17" value="user_queries" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="720" y="590" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=80;exitDy=60;exitPerimeter=0;" edge="1" parent="1" source="Beib_Prazt3__CU-oj-B-1" target="Beib_Prazt3__CU-oj-B-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="540" as="sourcePoint" />
+            <mxPoint x="490" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=80;exitDy=60;exitPerimeter=0;entryX=0.02;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Beib_Prazt3__CU-oj-B-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="520" as="sourcePoint" />
+            <mxPoint x="472" y="353" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=55;exitDy=15;exitPerimeter=0;entryX=0.145;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;" edge="1" parent="1" source="Beib_Prazt3__CU-oj-B-11" target="Beib_Prazt3__CU-oj-B-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="530" as="sourcePoint" />
+            <mxPoint x="455" y="356" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.22;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Beib_Prazt3__CU-oj-B-10" target="Beib_Prazt3__CU-oj-B-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="640" as="sourcePoint" />
+            <mxPoint x="455" y="356" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-6" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="39150e848f15840c-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="180" as="sourcePoint" />
+            <mxPoint x="593.94" y="99.99999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.542;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Beib_Prazt3__CU-oj-B-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="270" as="sourcePoint" />
+            <mxPoint x="530" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-31" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="260" y="30" width="450" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="39150e848f15840c-5" value="Admin" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="Beib_Prazt3__CU-oj-B-31" vertex="1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="39150e848f15840c-7" value="Customer/User" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="Beib_Prazt3__CU-oj-B-31" vertex="1">
+          <mxGeometry x="310" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-3" value="Radha Farm" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" vertex="1" parent="Beib_Prazt3__CU-oj-B-31">
+          <mxGeometry x="155" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-5" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.317;exitY=-0.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Beib_Prazt3__CU-oj-B-31" source="Beib_Prazt3__CU-oj-B-3" target="39150e848f15840c-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="205" y="130" as="sourcePoint" />
+            <mxPoint x="345" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.33;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Beib_Prazt3__CU-oj-B-13" target="Beib_Prazt3__CU-oj-B-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="356" y="660" as="sourcePoint" />
+            <mxPoint x="462" y="357" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.33;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.078;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Beib_Prazt3__CU-oj-B-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474.5" y="652" as="sourcePoint" />
+            <mxPoint x="485.5" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.33;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.029;exitY=0.089;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Beib_Prazt3__CU-oj-B-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="650" as="sourcePoint" />
+            <mxPoint x="511" y="348" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-36" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.855;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;exitX=0.029;exitY=0.089;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="Beib_Prazt3__CU-oj-B-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="620" as="sourcePoint" />
+            <mxPoint x="589" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.855;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Beib_Prazt3__CU-oj-B-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="734" y="614" as="sourcePoint" />
+            <mxPoint x="530" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Beib_Prazt3__CU-oj-B-39" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.855;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;exitX=-0.057;exitY=0.622;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="716.01" y="439.98" as="sourcePoint" />
+            <mxPoint x="530" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

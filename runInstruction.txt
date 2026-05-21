@@ -1,0 +1,7 @@
+start xampp
+open browser type localhost/PROJECT
+For admin:
+http://localhost/PROJECT/admin/index.php
+Admin username: kaveri
+pass :12345
+
